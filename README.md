@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Matheus Ribeiro</h1>
 <h3 align="center">Enthusiastic Tech Professional and Pragmatic Full-Stack Web Developer, Rooted in Recife, Brazil.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusfribeiro&label=Profile%20views&color=0e75b6&style=flat" alt="matheusfribeiro" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://matheusfribeiroportfolio.vercel.app/](https://matheusfribeiroportfolio.vercel.app/)
 
 - 📫 How to reach me **matheusfribeiro@outlook.com**
